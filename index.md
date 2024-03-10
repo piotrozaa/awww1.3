@@ -1,3 +1,6 @@
+Chess openings
+==============
+
 <h1>List of Chess Openings</h1>
 
 <h2>Adelaide Counter Gambit</h2>
